@@ -1,7 +1,7 @@
 # Documents — Proxy cache HTTP/HTTPS pour Kameleon
 
-Dépôt des documents du projet de stage INFO4
-Polytech Grenoble — Laboratoire IMAG, UGA — 2024-2025
+Dépôt des documents du projet du semestre 8 INFO4
+Polytech Grenoble — Laboratoire IMAG, UGA — 2025-2026
 
 ## Contenu
 
@@ -18,7 +18,7 @@ Polytech Grenoble — Laboratoire IMAG, UGA — 2024-2025
 
 **Code** : https://gricad-gitlab.univ-grenoble-alpes.fr/kamals/https-proxy
 
-**Période** : Janvier — Mars 2025
+**Période** : Janvier — Mars 2026
 
 ## Résultats clés
 
