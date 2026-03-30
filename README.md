@@ -5,8 +5,8 @@ Polytech Grenoble — Laboratoire IMAG, UGA — 2024-2025
 
 ## Contenu
 
-- `rapport_projet_https_proxy.pdf` — Rapport technique complet
-- `rapport_gestion_projet.pdf` — Rapport de gestion de projet
+- `Rapport_projet_https_proxy.pdf` — Rapport technique complet
+- `Rapport_gestion_projet.pdf` — Rapport de gestion de projet
 
 ## Projet
 
